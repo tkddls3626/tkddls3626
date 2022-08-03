@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://flint-curve-484.notion.site/9a92d57ef9ed4e31a6c59ff17d290d68" target="_blank"><img src="https://img.shields.io/badge/#006272?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://flint-curve-484.notion.site/9a92d57ef9ed4e31a6c59ff17d290d68" target="_blank"><img src="https://img.shields.io/badge/Aer Lingus?#006272?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkddls3626&show_icons=true&theme=radical)
