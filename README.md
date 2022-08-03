@@ -3,11 +3,6 @@
 
 <img src="https://img.shields.io/badge/-java-yellow">
 <img src="https://img.shields.io/badge/-python-brightgreen">
-<img src="https://img.shields.io/badge/-java-yellow">
-<img src="https://img.shields.io/badge/-java-yellow">
-<img src="https://img.shields.io/badge/-java-yellow">
-<img src="https://img.shields.io/badge/-java-yellow">
-<img src="https://img.shields.io/badge/-java-yellow">
 
 <!--
 **tkddls3626/tkddls3626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
