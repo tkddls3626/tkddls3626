@@ -1,4 +1,4 @@
-### 👋 Hi there! i'm backend developer using mysql and java
+### 👋 Hi there! i'm Junior Backend Developer using java and python <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 <!--
