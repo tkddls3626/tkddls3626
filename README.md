@@ -1,6 +1,9 @@
-### 👋 Hi there! i'm Junior Backend Developer using java and python <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+### 👋 Hi there! i'm Junior Backend Developer using java and python. 🔭
 
 
+
+
+ <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
 <!--
 **tkddls3626/tkddls3626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
